@@ -1,2 +1,4 @@
-# GHG_Emission_Prediction
-AICTE_Internships  / June_2025 / GHG_Emission_Prediction
+ GHG_Emission_Prediction (Green House Gas Emission Prediction)
+
+
+AICTE_Internships  / July_2025 
